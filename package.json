@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"http://kuldip2000.github.io/to-do-app" ,
+  "homepage": "http://kuldip2000.github.io/to-do-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -29,6 +29,4 @@
     "gh-pages": "^6.1.1",
     "vite": "^5.0.8"
   }
-  
-  
 }
